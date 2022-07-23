@@ -1,1 +1,1 @@
-My Sorting Algotithm Read Me
+sorting algorithm readme
